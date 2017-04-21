@@ -1,0 +1,8 @@
+name: dl_playground
+dependencies:
+  - python=3.5
+  - numpy
+  - matplotlib
+  - pip:
+    - keras==2.0.2
+    - tensorflow==1.0.1
