@@ -46,7 +46,7 @@ The tensorflow based CNN classifier on MNIST from [Aymeric Damien](https://githu
 
 Get the [convolutional_network.py](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py) by either repo clone, raw download or  
 ```bash
-wget https://raw.githubusercontent.com/aymericdamien/TensorFlow-Examples/master/examples/3_NeuralNetworks/convolutional_network.py
+curl -O https://raw.githubusercontent.com/aymericdamien/TensorFlow-Examples/master/examples/3_NeuralNetworks/convolutional_network.py
 ```
 
 ### run local
